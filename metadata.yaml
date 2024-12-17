@@ -1,0 +1,37 @@
+_repo: Viennese-medley_74757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Shaughnessy, Edith
+    alias: O'Shaughnessy, Mrs. Nelson
+    birthdate: 1870
+    deathdate: 1939
+    gutenberg_agent_id: '42826'
+    url: http://www.gutenberg.org/2009/agents/42826
+    wikipedia: https://en.wikipedia.org/wiki/Edith_O%27Shaughnessy
+description: ''
+gutenberg_issued: '2024-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74757'
+language: en
+pgterms:marc904: https://archive.org/details/viennesemedley00osha
+pgterms:marc905: 20220208210421oshaughnes
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: MWS, Mary Meehan and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bB. W. Huebsch, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Vienna (Austria) -- History -- 1918- -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Viennese medley
+url: http://www.gutenberg.org/ebooks/74757
